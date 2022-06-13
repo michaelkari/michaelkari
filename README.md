@@ -5,7 +5,7 @@
 </p>
 
 ---
-🌱 I'm currently a fourth year Computer Engineering student at Ryerson University.
+🌱 Computer Engineering Graduate from Toronto Metropolitan University
 
 - 😄 Pronouns: He/Him
 - 💬 Ask me about: My podcast! [Bore Me To Sleep: Unintelligible Lecture](https://anchor.fm/allmiggs)
